@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ImageGridStep2 from "./components/ImageGrid";
 
 export default function Home() {
